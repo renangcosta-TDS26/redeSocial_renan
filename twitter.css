@@ -1,0 +1,26 @@
+body{
+    background-image: url("twiter_imagem.jpeg");
+    color: white; 
+
+}
+.pesquisa{
+   text-align: center;
+    color: white;
+    border-radius: 15px;
+    padding: 6 px;
+    border: 2px;
+}
+.kleber{
+   border: 7px solid black;
+   border-radius: 360px;
+   max-width: 4%;
+
+}   
+.centralizar{
+    
+    text-align: center;
+
+}
+.menu{
+ display: flex; 
+}
